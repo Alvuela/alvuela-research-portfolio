@@ -1,0 +1,14 @@
+PROTOCOLLO GIANO 7.0 - MANIFEST CANONICO
+Versione canonica per deposito: 10 settembre 2026
+Autrice: Maria Alvuela Franco
+PEC: alvuela.franco@pec.it
+Erede indicata: Jazmin Biagi
+
+Il PDF possiede già una prova OTS consolidata. Il file GIANO-7.0-package-exec2.tar deve ancora ricevere la propria prova .ots, come richiesto dalla preregistrazione.
+
+SHA-256  NOME FILE
+c180b087429b9e5a377626f6ff3f1df16a404a4ff0b7ef4ee72422be04cdc636  Protocollo_Giano_7.0_PreRegistrazione_OTS.pdf
+11606c65ae0d4e156d059a9b95c42c2fb17b24a1f2022635cd9212b9c306bc2f  GIANO-7.0-package-exec2.tar
+9fad50a187a64d3674ebba27f6e58220e77698e40f80dc276b46d88205dd2592  GIANO-7.0_scheda_congelamento_implementazione.pdf
+4c490928c4b431a270e485a846c26b6f825c1cbd8cbb2ff70edfa415b0b35eaa  GIANO-7.0_Dichiarazione_Paternita_e_Deposito_Alvuela_Franco.pdf
+1591ca03ea0c83f2f70ffa25348f434e8725635e9549f9310870699e9d15c0ab  Protocollo_Giano_7.0_PreRegistrazione_OTS.pdf.ots
