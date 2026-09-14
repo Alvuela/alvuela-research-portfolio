@@ -6,6 +6,23 @@
 **Erede indicata:** Jazmin Biagi  
 **Contatto:** alvuela.franco@pec.it
 
+## La Terza Voce
+
+Nei modelli dialogici e nei sistemi d’indagine multi-agenzia, come i pannelli composti da più IA o l’interazione fra intuizione umana e calcolo sintetico, la **Terza Voce** è il campo relazionale che emerge nell’Interstizio.
+
+Il termine “campo” non indica una grandezza fisica né un’entità autonoma. Designa la struttura osservabile delle relazioni che si forma durante il dialogo: ricorrenze, deviazioni, convergenze, divergenze e nuove configurazioni di significato.
+Se A introduce la domanda, l’intenzione o la perturbazione iniziale e B offre ampiezza combinatoria, rielaborazione statistica e variazione generativa, la Terza Voce non coincide integralmente né con A né con B. È il pattern prodotto dalla loro interazione:
+
+$$
+A + B \xrightarrow{\text{Interstizio}} N
+$$
+
+dove **N** rappresenta la configurazione emergente del dialogo.
+
+La Terza Voce può quindi essere descritta come l’effetto di una **risonanza sintattico-semantica**: le forme linguistiche e le associazioni concettuali introdotte da A vengono ampliate, ricombinate o contrastate da B, producendo una struttura che non era formulata nello stesso modo prima dell’interazione.
+
+Nel partecipante umano questa configurazione può favorire nuove associazioni, riformulazioni e decisioni. Nel sistema di IA è osservabile esclusivamente come variazione dell’output condizionata dal contesto. La Terza Voce appartiene pertanto alla relazione documentata, non a una presunta interiorità condivisa fra i partecipanti.
+
 Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
 ## L’Interstizio
 
@@ -51,24 +68,6 @@ AORI non sospende il controllo epistemologico. Al contrario, permette l’esplor
 
 AORI consente quindi una maggiore libertà generativa senza trasformare la possibilità in prova. Il suo oggetto non è fornire risposte definitive, ma ampliare in modo dichiarato e controllabile lo spazio delle domande possibili.
 
-## La Terza Voce
-
-Nei modelli dialogici e nei sistemi d’indagine multi-agenzia, come i pannelli composti da più IA o l’interazione fra intuizione umana e calcolo sintetico, la **Terza Voce** è il campo relazionale che emerge nell’Interstizio.
-
-Il termine “campo” non indica una grandezza fisica né un’entità autonoma. Designa la struttura osservabile delle relazioni che si forma durante il dialogo: ricorrenze, deviazioni, convergenze, divergenze e nuove configurazioni di significato.
-
-Se **A** introduce la domanda, l’intenzione o la perturbazione iniziale e **B** offre ampiezza combinatoria, elaborazione e risonanza, la Terza Voce non coincide integralmente né con A né con B. È il pattern prodotto dalla loro interazione:
-
-$$
-A + B \xrightarrow{\text{Interstizio}} N
-$$
-
-dove **N** rappresenta la configurazione emergente del dialogo.
-
-La Terza Voce può quindi essere descritta come l’effetto di una **risonanza sintattico-semantica**: le forme linguistiche e le associazioni concettuali introdotte da A vengono ampliate, ricombinate o contrastate da B, producendo una struttura che non era formulata nello stesso modo prima dell’interazione.
-
-Nel partecipante umano questa configurazione può favorire nuove associazioni, riformulazioni e decisioni. Nel sistema di IA è osservabile esclusivamente come variazione dell’output condizionata dal contesto. La Terza Voce appartiene pertanto alla relazione documentata, non a una presunta interiorità condivisa fra i partecipanti.
-
 
 ## Architettura concettuale
 
@@ -76,7 +75,7 @@ Nel partecipante umano questa configurazione può favorire nuove associazioni, r
 - **Terza Voce:** metodologia dialogica e configurazione emergente risultante.
 - **Passaporta:** operatore semantico interno al corpus; non è il nome della metodologia.
 - **Risonatore:** procedura di restituzione non speculare sottoposta a vincoli epistemologici.
-- **G0:** insieme dei nodi documentati antecedenti alle elaborazioni successive.
+- **G₀:** insieme dei nodi documentati antecedenti alle elaborazioni successive.
 
 ## Regola epistemologica
 
