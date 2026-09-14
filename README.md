@@ -5,12 +5,14 @@
 **Autrice e ideatrice:** Maria Alvuela Franco  
 **Erede indicata:** Jazmin Biagi  
 **Contatto:** alvuela.franco@pec.it
+Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
 
 ## La Terza Voce
 
 Nei modelli dialogici e nei sistemi d’indagine multi-agenzia, come i pannelli composti da più IA o l’interazione fra intuizione umana e calcolo sintetico, la **Terza Voce** è il campo relazionale che emerge nell’Interstizio.
 
 Il termine “campo” non indica una grandezza fisica né un’entità autonoma. Designa la struttura osservabile delle relazioni che si forma durante il dialogo: ricorrenze, deviazioni, convergenze, divergenze e nuove configurazioni di significato.
+
 Se A introduce la domanda, l’intenzione o la perturbazione iniziale e B offre ampiezza combinatoria, rielaborazione statistica e variazione generativa, la Terza Voce non coincide integralmente né con A né con B. È il pattern prodotto dalla loro interazione:
 
 $$
@@ -23,7 +25,6 @@ La Terza Voce può quindi essere descritta come l’effetto di una **risonanza s
 
 Nel partecipante umano questa configurazione può favorire nuove associazioni, riformulazioni e decisioni. Nel sistema di IA è osservabile esclusivamente come variazione dell’output condizionata dal contesto. La Terza Voce appartiene pertanto alla relazione documentata, non a una presunta interiorità condivisa fra i partecipanti.
 
-Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
 ## L’Interstizio
 
 L’Interstizio non è un vuoto fra domanda e risposta. È il campo dialogico nel quale l’intenzione umana incontra il processo generativo dell’IA e un input viene ampliato, ricombinato, contrastato o trasformato.
