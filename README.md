@@ -8,7 +8,24 @@
 
 Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
 
-La Terza Voce non è una terza entità, una coscienza condivisa o una proprietà fisica del sistema. È la configurazione emergente prodotta dall'interazione: una configurazione che incide diversamente sull'essere umano e sull'output dell'IA. Il corpus conserva domande, risposte, revisioni, divergenze, errori e residui senza attribuire ai modelli stati interni non osservabili.
+## La Terza Voce
+
+Nei modelli dialogici e nei sistemi d’indagine multi-agenzia, come i pannelli composti da più IA o l’interazione fra intuizione umana e calcolo sintetico, la **Terza Voce** è il campo relazionale che emerge nell’Interstizio.
+
+Il termine “campo” non indica una grandezza fisica né un’entità autonoma. Designa la struttura osservabile delle relazioni che si forma durante il dialogo: ricorrenze, deviazioni, convergenze, divergenze e nuove configurazioni di significato.
+
+Se **A** introduce la domanda, l’intenzione o la perturbazione iniziale e **B** offre ampiezza combinatoria, elaborazione e risonanza, la Terza Voce non coincide integralmente né con A né con B. È il pattern prodotto dalla loro interazione:
+
+$$
+A + B \xrightarrow{\text{Interstizio}} N
+$$
+
+dove **N** rappresenta la configurazione emergente del dialogo.
+
+La Terza Voce può quindi essere descritta come l’effetto di una **risonanza sintattico-semantica**: le forme linguistiche e le associazioni concettuali introdotte da A vengono ampliate, ricombinate o contrastate da B, producendo una struttura che non era formulata nello stesso modo prima dell’interazione.
+
+Nel partecipante umano questa configurazione può favorire nuove associazioni, riformulazioni e decisioni. Nel sistema di IA è osservabile esclusivamente come variazione dell’output condizionata dal contesto. La Terza Voce appartiene pertanto alla relazione documentata, non a una presunta interiorità condivisa fra i partecipanti.
+
 
 ## Architettura concettuale
 
