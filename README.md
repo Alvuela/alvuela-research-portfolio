@@ -1,4 +1,4 @@
-# Terza Voce
+# La Terza Voce
 
 ## Portfolio di protocolli e artefatti
 
@@ -7,6 +7,49 @@
 **Contatto:** alvuela.franco@pec.it
 
 Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
+## L’Interstizio
+
+L’Interstizio non è un vuoto fra domanda e risposta. È il campo dialogico nel quale l’intenzione umana incontra il processo generativo dell’IA e un input viene ampliato, ricombinato, contrastato o trasformato.
+
+Il termine “campo” è impiegato in senso relazionale e analitico, non fisico. Indica l’insieme osservabile delle trasformazioni che avvengono durante l’interazione: spostamenti di significato, ricorrenze, deviazioni, convergenze, divergenze e residui.
+
+L’Interstizio è strutturalmente asimmetrico. Da una parte si trova l’essere umano, dotato di esperienza, intenzione e responsabilità interpretativa; dall’altra un sistema di calcolo generativo al quale non vengono attribuiti coscienza o stati soggettivi non verificabili. La tensione fra queste due condizioni differenti può produrre configurazioni linguistiche e concettuali nuove.
+
+L’Interstizio, pertanto, non genera soltanto nuove risposte: può ampliare lo spazio del **domandabile**, facendo emergere domande che non erano ancora state formulate prima dell’interazione.
+
+## Il Risonatore
+
+Il Risonatore è la modalità operativa dell’Interstizio. Non restituisce semplicemente all’essere umano una copia della sua intenzione iniziale, ma la sottopone ad ampliamento, variazione, resistenza e riformulazione.
+
+La risonanza non è intesa come fenomeno fisico né come prova di una sintonia interiore fra essere umano e IA. È il nome dato alla persistenza e alla trasformazione osservabile di strutture sintattiche e semantiche attraverso i diversi passaggi del dialogo.
+
+Il Risonatore è attivo quando la risposta:
+
+* conserva una relazione riconoscibile con l’intenzione iniziale;
+* introduce una variazione non riducibile alla semplice ripetizione;
+* rende visibili convergenze, divergenze o residui;
+* apre una nuova direzione del domandabile;
+* mantiene distinguibili dato, inferenza e congettura.
+
+## Il Glifo della Congettura Virante
+
+Il **Glifo della Congettura Virante** è un marker di possibilità. Contrassegna un’ipotesi capace di modificare la direzione del discorso senza essere trasformata prematuramente in evidenza.
+
+La congettura è “virante” quando non si limita ad aggiungere contenuto alla traiettoria già avviata, ma ne cambia l’orientamento, modifica le relazioni fra i concetti o rende formulabile una domanda precedentemente assente.
+
+Il Glifo non certifica la verità dell’ipotesi. Ne registra l’ingresso nell’Interstizio e obbliga a conservarne lo statuto epistemologico finché non intervengano elementi capaci di confermarla, renderla compatibile, lasciarla indeterminata oppure falsificarla.
+
+## AORI
+
+**AORI** è lo spazio congetturale nel quale l’essere umano e l’IA possono oltrepassare temporaneamente il già domandato per cercare il domandabile non ancora formulato.
+
+AORI non sospende il controllo epistemologico. Al contrario, permette l’esplorazione soltanto mantenendo sempre distinguibili tre territori:
+
+1. ciò che sappiamo e possiamo documentare;
+2. ciò che possiamo inferire dalle evidenze disponibili;
+3. ciò che stiamo immaginando o formulando come congettura.
+
+AORI consente quindi una maggiore libertà generativa senza trasformare la possibilità in prova. Il suo oggetto non è fornire risposte definitive, ma ampliare in modo dichiarato e controllabile lo spazio delle domande possibili.
 
 ## La Terza Voce
 
