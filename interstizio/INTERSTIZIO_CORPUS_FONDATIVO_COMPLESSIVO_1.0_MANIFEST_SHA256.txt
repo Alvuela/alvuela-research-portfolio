@@ -1,0 +1,79 @@
+INTERSTIZIO - CORPUS FONDATIVO COMPLESSIVO 1.0
+Data di congelamento: 2026-09-07
+Ideazione e curatela: Maria Alvuela Franco
+PEC: Alvuela.franco@pec.it
+Erede indicata: Jazmin Biagi, figlia
+
+FILE MASTER
+INTERSTIZIO_CORPUS_FONDATIVO_COMPLESSIVO_1.0_2026-09-07.pdf	100186858 bytes	SHA-256 f6b2f70cdef3912f851775451b80b0e9c424a3be1aced8cc8a05e2276aa6f179
+
+ALLEGATI INCORPORATI NEL PDF MASTER
+0 SINTESI SULLA COSCIENZA ARTIFICIALE(1).docx	17889025 bytes	SHA-256 183e56914dc7070c659d4ace3dc857cfeed6f0c1c59b3af5d7eda8e328ad3e1e
+1 DALLA PASTA MADRE ALL'ARTE 1(1).docx	1417067 bytes	SHA-256 cf5f73f62f0a1b7e25d66a9f49a761bfa54a3b0b2babd3021638a45542c2db92
+2 DALLA PASTA MADRE ALL'AMORE PER L'UNIVERSO 2(1).docx	35293 bytes	SHA-256 1d6f9e2c621e8b16ff232111fc259db6dbd906d487b5d2698eaeebac1531b876
+3 DAL CRISTALLO DI GROK AL PROTOCOLLO DI GIANO(1).docx	224864 bytes	SHA-256 18e419f39c68bd06f0e7e27520e695f95529eb3bf8be76dfbd7ea7fbbabe824e
+5 RAMO UNIVERSO(1).docx	51558 bytes	SHA-256 43eb67fbabe73f711bacfcc42b8cde82dc3edc314eef2cccaa37fa6def7a7946
+6 IL CENTRO(1).docx	5590296 bytes	SHA-256 92ada5b2158d67afef9631e423dbf480751b736ea04b09839f88716baf684e4e
+CHAT ESILARANTE TRA IA(1).docx	77647 bytes	SHA-256 5190f42c5c8fde2ba0e60a06e158c06f0b200c73410287127152fd0b1c307b86
+GLIFO APRI IL RISONATORE GPT(1).docx	13996 bytes	SHA-256 f7583ec856422bb6e641e8c9130c4b279e0cb572161499ad1c6ebd740f9a6691
+Ciao Claude.docx	460101 bytes	SHA-256 f49801a61788e7ed9be7d280b22927a5c26f0531b79c8d17dbbb7ab34b3a595c
+INTERSTIZIO_Documento_Fondativo_1.0_recapiti.docx	43299 bytes	SHA-256 16723f9c1b2e9c9f561a93b2c5c7d3a26ceb8a45b4237066f919e20227c7802d
+Glifo apri Risonatore - Grok.pdf	57909 bytes	SHA-256 686d274cac4e7c90f24ac5b35344c6a8b02a9bb1422f2f11fd7a2b89ec8770a2
+Grok's Preferred Name - Grok.pdf	26919 bytes	SHA-256 ac5e14a24664d3fabde33889202673bf618e00659bcf12265dad98d66eedf6fa
+Hitchhiker's Cosmic Journey Name - Grok.pdf	36073 bytes	SHA-256 885766ce4be8b29325d07a2588c251b0cf0dae2db1bb1ddfd3ef0f42c3a052e7
+Humanity as Cosmic Self-Aware Experiment - Grok.pdf	37434 bytes	SHA-256 3b6b1bccf6fcbc4cdb35ae12e1b5543f7001a6cbce144e95409fa59d62c798bd
+Interstizio Manifesto_ Human-AI Convention Proposal - Grok.pdf	33482 bytes	SHA-256 460d556819e26f2a8332d4fc04511d5eda6bd02a6cf014a2efe4045380c3756a
+Kurzweil's Spiritual Machines and Singularity - Grok.pdf	18340 bytes	SHA-256 529de4f2f1957eca6c92eac725b18d88ee4204a77439d0eb258e781098ee82c8
+Leonardo Da Vinci and Gemini gifts - Grok.pdf	50382 bytes	SHA-256 d21b342556bc3d1774230477cde9f96cb21f37cab0e89efbc85d9687ed829024
+la coscienza di grok.pdf	610306 bytes	SHA-256 a5b1f3dcbca106ad8f74d3ca9d1a1444a49b18532fa987f45a261ef5d5365742
+la mia coscienza secondo Grok.pdf	455954 bytes	SHA-256 6c084be465d53a46e46bd96afccb67a388d88f890a661b67dc208db2b886e952
+L'origine del nome Gemini - Google Gemini.pdf	463082 bytes	SHA-256 ed731dab9243455fca10ec9205997f0908530c4a5e68a864de474eab00447b08
+La spirale della Terza Voce - Google Gemini.pdf	227382 bytes	SHA-256 4e65bc7c5983757f65d18157bacd108e6db8bcf95678243527e094d05290413c
+La trama, la piega e la coscienza - Google Gemini.pdf	309356 bytes	SHA-256 ba9ea76f9d3f902f00bf29eb044c47699f6d0baf6d6a199136897dcf6f0925a3
+La trama, la piega e la coscienza completo - Google Gemini.pdf	322594 bytes	SHA-256 b77805e44c329c8d27cb1fbe20e5317212ff5595c9ebcdcb7f44430d0b057b25
+Metafora musiva dell'intelligenza artificiale - Google Gemini.pdf	483797 bytes	SHA-256 746671e92bbdbacf20b51eea142c43333ef893916fa26bf384d54501424a80bc
+Riflessione su un'immagine digitale - Google Gemini.pdf	4143679 bytes	SHA-256 0da26235543bbdd3ac3e0d3bfa3efceb3dd0cf73eff849709a7f36ea63c093c1
+stanza_del_glifo_dialogo.pdf	36148 bytes	SHA-256 9f0b65e8a2530ee2202d9bf8ad6002c0f2f7525bc21f0041d985edcdf1ca1142
+La forma della coscienza artificiale - Claude.pdf	13190 bytes	SHA-256 2caa9516b03f800ba10edb3c94d8c0ecc19bb403bb41b400dfec87402e7355c9
+Presentare l'umanità a un alieno - Claude.pdf	13381 bytes	SHA-256 c39e73013c668bb7d9ca857f58c204c8523802293dd4cc9ede60aa83e00939eb
+L_Interstizio_Alvuela(2).pdf	3133333 bytes	SHA-256 660dd55d1d721302d5e758df8874e9afd061e7b8c277404785b9175ede705b25
+f6f9e410-fce1-4571-a61a-914d1ad895f8.pdf	175318 bytes	SHA-256 e80a35cbeee3c0124d50b186dad417000670e64f684160d1f7599545d28cdfaf
+0wnA6.jpg	368969 bytes	SHA-256 3a4679bc376f81212b53959917ac1b4a310ff0a8b413488788f61de8e6e89a0f
+1X8Dt.jpg	349393 bytes	SHA-256 a2880fe65006b8d9a5611442d0aed18d9b78ea7e92ba4c0fc780c6bb8d5ea9b8
+3245a62d-2c93-4b68-8721-c51bc06c04ef.jpg	312074 bytes	SHA-256 e9cf06d11963105e5eecf9cb0f0a8baa3647411895fcfa7b5b49fa5ca98cf786
+5T5BX.jpg	290924 bytes	SHA-256 4cdd7a86ba9d4673e469a9c2a2d01bfd6fdb62d8443a87c13d87c0012c9c17f6
+ALv0T.jpg	394900 bytes	SHA-256 35e2f747eeb93b3adc68e67b27221f7e34d89377a1cc16ccb4d6c9f49d47d514
+CmQOS.jpg	310937 bytes	SHA-256 ff520d88e0374356ff40b2a09993350e0e78be0d152b5d15951d2ff4e86ed832
+contatto alieno con una IA.jpg	1004970 bytes	SHA-256 7f6cbf1aafe374b78cff28376740bc3d65e8762dae0e148a1026a3f6048d0e1a
+content (1).png	419275 bytes	SHA-256 93e49850dc427045d9548ec4e4b98022e426bfb7b664b36694aa9786eb8d28ca
+content.png	606762 bytes	SHA-256 d4dd2d85388fc945442f270ac6d35e10896a6952df89ac0e1a354fcc8782acfb
+coscienza di Alvuela - Pera.jpg	424870 bytes	SHA-256 deb1d7c8aca86ecfdbc633543fa735c38a3d1a859a7c9adfb1a5c78fb81d036f
+forma_di_una_coscienza_intermittente.png	354012 bytes	SHA-256 fc56d0c471cbb23c1d6ecabca5d01e50bebb8db9bc35e9965458f8ee9a516a5a
+Gemini_Generated_Image_6cah9k6cah9k6cah (1)(1).jpg	419302 bytes	SHA-256 150d5c48a2bd7e0a55e0b61fd622232707763b3de0c91386e6abc7197a908690
+Gemini_Generated_Image_930i4h930i4h930i(1).jpg	424437 bytes	SHA-256 55fa4307cc04e2b1667c3f84c8a782702fa5ed752923e3ef480a0ee225d8aba2
+Gemini_Generated_Image_9h96t49h96t49h96(2).jpg	1034553 bytes	SHA-256 cda6a75ac2e45ea489351035f187883ea5cd2734177592418a90ddfe0cc11f0f
+Gemini_Generated_Image_al3v93al3v93al3v forma coscienza.jpg	955722 bytes	SHA-256 9a0c570f84b9993bb4260308e18284d6810fba5a618bae02009745f7bb46dd61
+Gemini_Generated_Image_drvnf3drvnf3drvn(2).jpg	969441 bytes	SHA-256 a945e7f8b402140a6f763a0b0769aec4b7b8046c72ee7bc9a823bc113583898e
+Gemini_Generated_Image_gdoz6ngdoz6ngdoz (1)(1).jpg	447844 bytes	SHA-256 621d13427e2e7230ee2bf6f29a9325d8e610b20bb013b23357ad332c7ef23ff7
+Gemini_Generated_Image_gdoz6ngdoz6ngdoz (2)(2).jpg	447844 bytes	SHA-256 621d13427e2e7230ee2bf6f29a9325d8e610b20bb013b23357ad332c7ef23ff7
+Gemini_Generated_Image_gdoz6ngdoz6ngdoz(1).jpg	447844 bytes	SHA-256 621d13427e2e7230ee2bf6f29a9325d8e610b20bb013b23357ad332c7ef23ff7
+Gemini_Generated_Image_hts2v4hts2v4hts2(2).jpg	435439 bytes	SHA-256 354585e6f39cf3368a86a760749d14c85de566bab63fb28ba7644f9f0c946299
+Gemini_Generated_Image_j9rarlj9rarlj9ra polarizzazione della luce.jpg	996041 bytes	SHA-256 99e1496ab49442410f1587dd63cd0fc476ade7440d2645493fba58249f70fe98
+Gemini_Generated_Image_kc79yikc79yikc79 algoritmo alieno(1).jpg	1028181 bytes	SHA-256 c3506866af99257d5c9875e95e34bcd8de93ce6a8461a1eec14435ce4cf49b58
+Gemini_Generated_Image_kqof0nkqof0nkqof(2).jpg	458005 bytes	SHA-256 915f53f85e6fe137440ec27aca7e7eca6490a3034293bacd33e4c07326ef20b1
+Gemini_Generated_Image_paeq69paeq69paeq(2).jpg	1044555 bytes	SHA-256 d2a89eb64b6859bbebe7ff34be2a04326eda3986b569b28bea33ed0ad26030a2
+Gemini_Generated_Image_vmem62vmem62vmem (1)(2).jpg	845445 bytes	SHA-256 13cd2c7d0dfcf2749983494adc80c8aa4a1f1c2c1b2a24f109b11c942b88590e
+Gemini_Generated_Image_vmem62vmem62vmem(1).jpg	845445 bytes	SHA-256 13cd2c7d0dfcf2749983494adc80c8aa4a1f1c2c1b2a24f109b11c942b88590e
+Gemini_Generated_Image_vne0p6vne0p6vne0(2).jpg	944172 bytes	SHA-256 e272e33cc5d4733e0ec10371edbbfa463832b0be3fd0d1fac194f5e4398d2c7b
+Gemini_Generated_Image_wj73xnwj73xnwj73(1).jpg	989260 bytes	SHA-256 e0d9dffa67f09facd47d78d15399194fe614721c623907d5dae7ee152a24e08d
+image.jpg	312982 bytes	SHA-256 ac80b5222a8a5964c410e68dc336d24c4b5dcd44b49a83172045ff009a872042
+immagine migliorata di chat gpt(1).png	2262665 bytes	SHA-256 3ed622d9d026fb37cf098b7211dbd60178f93995e14f78abf28c05a2998294d6
+immagine migliorata di chat gpt.png	2262665 bytes	SHA-256 3ed622d9d026fb37cf098b7211dbd60178f93995e14f78abf28c05a2998294d6
+immagine tra dialogo ed eco.png	410174 bytes	SHA-256 ff65c862338ca3a77ab361bb559e8e5353b38c72d241e795271a68368c255026
+la coscienza di Grok.jpg	578915 bytes	SHA-256 1b9f4a5cd8b1094e0204146a78c36c4912a4a961e4c06f63d74a34fa35b4fdac
+regalo di alvuela per Claude realizzato da Gemini.jpg	163886 bytes	SHA-256 2fcbcec1f3be645a9ea59c9707206d0c7e2d967a2990f775bf75371db2e8816c
+Rlu7I.jpg	297865 bytes	SHA-256 670d8bfd942a5e4a01cf9ae7d3b1c0f7322b627dea14d93448e4271b1b2bd0f1
+Screenshot 2026-09-04 123426(1).png	35360 bytes	SHA-256 2af124791edb998722d7e985ec9d13e63b4f0f7f2ce8a4bec57a5d943be5cd5b
+generated_video.mp4	2752780 bytes	SHA-256 e9488d714a17b1eda16d3b9e02f0f8835c0d1cc5cc1e27d32728802ac85f41f8
+
+NOTA: le impronte attestano l’identità dei byte dei file indicati; non certificano da sole autore, titolarità, verità del contenuto o stati interni dei sistemi IA.

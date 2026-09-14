@@ -1,0 +1,11 @@
+INTERSTIZIO - REGISTRO COMPOSTO v1.0 - MANIFEST CANONICO
+Versione canonica per deposito: 10 settembre 2026
+Autrice: Maria Alvuela Franco
+PEC: alvuela.franco@pec.it
+Erede indicata: Jazmin Biagi
+
+Questo manifest sostituisce ai soli fini di integrità quello precedente non coincidente con il PDF conservato. Il contenuto non è stato riscritto: è stata congelata l’esatta copia destinata alla marcatura.
+
+SHA-256  NOME FILE
+1f02c5b16acc5ea0abc0c3255bf921c619646b54e30089a7bcc3d658a60c5520  Protocollo_Alvuela_Interstizio_Registro_Composto_v1.0.pdf
+b08db4a45f1cfb3067e5ac740ef9118517c91fee65f4a21ec1ea069ac248c343  Protocollo_Alvuela_Interstizio_Registro_Composto_v1.0.docx
