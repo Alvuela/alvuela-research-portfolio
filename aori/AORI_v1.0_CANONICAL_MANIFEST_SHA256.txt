@@ -1,0 +1,13 @@
+AORI v1.0 - MANIFEST CANONICO
+Versione canonica per deposito: 10 settembre 2026
+Autrice: Maria Alvuela Franco
+PEC: alvuela.franco@pec.it
+Erede indicata: Jazmin Biagi
+
+Marcare temporalmente questo manifest collega la prova a tutti e quattro i PDF elencati. Conservare insieme il manifest, i PDF e la ricevuta .ots generata dal servizio.
+
+SHA-256  NOME FILE
+fc73c284594b622f22b1518816c034b64e03cda56633c02c2b6a6bb39fe89a3e  AORI_Protocollo_della_Soglia_Generativa_v1.0.pdf
+f70947e1f58f8fee6c04563a14dea036aa6efae7f874f6795234e40fb4102080  AORI_Allegato_A_Congetture_Cosmologiche_v1.0.pdf
+65d6b83949414b665430e1b5506f08b05682537bbf37a848fd3ec16198702b65  AORI_Allegato_B_Registro_Storico_ASTRA_v1.0.pdf
+354f1c28678c2e088d137f14d352f5b889ef6c13a42dd708f04d1dd5af64de11  AORI_Dossier_di_Deposito_v1.0.pdf
