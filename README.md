@@ -5,6 +5,7 @@
 **Autrice e ideatrice:** Maria Alvuela Franco  
 **Erede indicata:** Jazmin Biagi  
 **Contatto:** alvuela.franco@pec.it
+
 Questo repository documenta una ricerca indipendente sull'interazione dialogica tra essere umano e sistemi di intelligenza artificiale. Il nucleo metodologico è denominato **Terza Voce**.
 
 ## La Terza Voce
